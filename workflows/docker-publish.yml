@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: nikolay292/docker_test_1:latest
+          tags: nikolay292/myap:latest
